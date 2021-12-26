@@ -1,0 +1,11 @@
+{
+  "name": "testreponame/malicious",
+  "description": "test for composer",
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "testreponame\\malicious\\": "src/"
+    }
+  }
+}
